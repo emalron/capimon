@@ -1,0 +1,10 @@
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\bin\Debug\Capimon.exe.config
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\bin\Debug\Capimon.exe
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\bin\Debug\Capimon.pdb
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\obj\Debug\Capimon.csprojAssemblyReference.cache
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\obj\Debug\Capimon.Properties.Resources.resources
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\obj\Debug\Capimon.csproj.GenerateResource.cache
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\obj\Debug\Capimon.csproj.CoreCompileInputs.cache
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\obj\Debug\Capimon.exe
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\obj\Debug\Capimon.pdb
+C:\Users\Emalron\Source\Repos\Capimon\Capimon\obj\Debug\Capimon.Form1.resources
